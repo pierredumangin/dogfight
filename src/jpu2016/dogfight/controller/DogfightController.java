@@ -4,6 +4,8 @@ public class DogfightController implements IOrderPerformer {
 
 	private static int TIME_SLEEP =30;
 	
+	//==========METHODES=========//
+	
 	public  DogfightController(IDogfightModel dogfightModel){
 		
 	}
